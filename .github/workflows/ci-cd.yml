@@ -41,5 +41,5 @@ jobs:
 
     - name: Deploy application
       run: echo "Deploying application..."
-      # Добавьте здесь команды для развертывания вашего приложения, например scp, ssh и т.д.
+     
 
